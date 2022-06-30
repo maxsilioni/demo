@@ -1,0 +1,2 @@
+{"update_id":5982897,
+"message":{"message_id":5,"from":{"id":107392361,"is_bot":false,"first_name":"DonPiluso","username":"DonPiluso","language_code":"es"},"chat":{"id":107392361,"first_name":"DonPiluso","username":"DonPiluso","type":"private"},"date":1598566743,"text":"/nuevo","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
